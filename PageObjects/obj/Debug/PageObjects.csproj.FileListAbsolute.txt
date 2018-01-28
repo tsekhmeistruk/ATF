@@ -1,0 +1,12 @@
+c:\Users\Tsekh\source\repos\ATF\PageObjects\bin\Debug\PageObjects.dll
+c:\Users\Tsekh\source\repos\ATF\PageObjects\bin\Debug\PageObjects.pdb
+c:\Users\Tsekh\source\repos\ATF\PageObjects\bin\Debug\ATF.dll
+c:\Users\Tsekh\source\repos\ATF\PageObjects\bin\Debug\WebDriver.dll
+c:\Users\Tsekh\source\repos\ATF\PageObjects\bin\Debug\WebDriver.Support.dll
+c:\Users\Tsekh\source\repos\ATF\PageObjects\bin\Debug\ATF.pdb
+c:\Users\Tsekh\source\repos\ATF\PageObjects\bin\Debug\WebDriver.xml
+c:\Users\Tsekh\source\repos\ATF\PageObjects\bin\Debug\WebDriver.Support.xml
+c:\Users\Tsekh\source\repos\ATF\PageObjects\obj\Debug\PageObjects.csprojResolveAssemblyReference.cache
+c:\Users\Tsekh\source\repos\ATF\PageObjects\obj\Debug\PageObjects.csproj.CoreCompileInputs.cache
+c:\Users\Tsekh\source\repos\ATF\PageObjects\obj\Debug\PageObjects.dll
+c:\Users\Tsekh\source\repos\ATF\PageObjects\obj\Debug\PageObjects.pdb

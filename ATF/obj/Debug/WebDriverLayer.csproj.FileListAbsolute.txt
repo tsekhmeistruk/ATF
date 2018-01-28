@@ -1,0 +1,9 @@
+c:\users\tsekh\source\repos\ATF\ATF\bin\Debug\ATF.dll
+c:\users\tsekh\source\repos\ATF\ATF\bin\Debug\ATF.pdb
+c:\users\tsekh\source\repos\ATF\ATF\bin\Debug\WebDriver.dll
+c:\users\tsekh\source\repos\ATF\ATF\bin\Debug\WebDriver.Support.dll
+c:\users\tsekh\source\repos\ATF\ATF\bin\Debug\WebDriver.xml
+c:\users\tsekh\source\repos\ATF\ATF\bin\Debug\WebDriver.Support.xml
+c:\users\tsekh\source\repos\ATF\ATF\obj\Debug\WebDriverLayer.csproj.CoreCompileInputs.cache
+c:\users\tsekh\source\repos\ATF\ATF\obj\Debug\ATF.dll
+c:\users\tsekh\source\repos\ATF\ATF\obj\Debug\ATF.pdb
